@@ -61,6 +61,37 @@ Due to the large data size, it wasn't possible to work with the data using excel
 
  ![image](https://github.com/user-attachments/assets/77820b50-5b2c-4b28-8f03-4ca670a46248)
 
+ • Over the course of a full year, it seems that the most busy time of the year is around summer time (July, August, September).
+
+ ![image](https://github.com/user-attachments/assets/a525deeb-9447-42cb-8087-77e236eca3ec)
+
+ • Over the course of the week, it looks like most casual customers use the service on weekends, on the other hand the members use all week long.
+
+ ![image](https://github.com/user-attachments/assets/d0285cd5-94f8-49f4-a594-fa5a709b9e03)
+
+ • On a daily basis, it appears that both members and casual customers use the service around the end of the day, which might be due to the normal work hours.
+
+ ![image](https://github.com/user-attachments/assets/4b170660-07bd-4872-b1c2-bb9e78c03653)
+
+ • On average, most casual customers rides are longer than members.
+
+ ![image](https://github.com/user-attachments/assets/7392768c-d3fe-4a35-adfd-41c6bf598f5d)
+
+ • And the below visual show how ride/trip lengths are distributed.
+
+ ![image](https://github.com/user-attachments/assets/c5726cc2-c183-4d1f-bb94-b338608f612f)
+
+ • Here we can see the most user bike by both members and casual customers.
+
+![image](https://github.com/user-attachments/assets/546af050-b976-4a3c-ba0a-ab02f1d5dc40)
+
+
+
+
+
+
+
+
 
 
 
