@@ -58,7 +58,8 @@ Due to the large data size, it wasn't possible to work with the data using excel
 ### :pushpin: Analyze:
 
 • Currently we can see that 41% are by casuals and 59% of trips are made by members, lets work on improving this percentage!
-![image](https://github.com/user-attachments/assets/77820b50-5b2c-4b28-8f03-4ca670a46248)
+
+            ![image](https://github.com/user-attachments/assets/77820b50-5b2c-4b28-8f03-4ca670a46248)
 
 
 
