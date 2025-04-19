@@ -21,5 +21,5 @@ Using googles data analytics process 5 phases we begin with:
 
 ### :inbox_tray: Prepare:
 
-• Download the data sets from the https://divvy-tripdata.s3.amazonaws.com/index.html site.
+• Download the data sets from the [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) <br> site.
 • 
