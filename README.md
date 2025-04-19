@@ -21,5 +21,24 @@ Using googles data analytics process 5 phases we begin with:
 
 ### :inbox_tray: Prepare:
 
-• Download the data sets from the [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) <br> site.
-• 
+• Download the data sets from the [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) site.
+• Organize data in a single directory.
+• Explore the dataset to better understand what are our dimensions and measures.
+
+|  **Variable**       |  **Description**                                        |
+|------------------   | --------------------------------------------------------|
+| ride_id             | A unique id for each ride/trip.                         |
+| rideable_type       | Type of bike per ride/trip.                             |
+| started_at          | Starting Date/Time of the ride/trip                     |
+| ended_at            | Ending Date/Time of the ride/trip                       |
+| start_station_name  | Name of the starting station of the ride/trip           |
+| start_station_id    | ID of the starting station of the ride/trip             |
+| end_station_name    | Name of the ending station of the ride/trip             |
+| end_station_id      | ID of the starting station of the ride/trip             |
+| start_lat           | Latitude of starting station                            |
+| start_lng           | Longitude of starting station                           |
+| end_lat             | Latitude of ending station                              |
+| end_lng             | Longitude of ending station                             |                            
+| member_casual       | Type of customer per ride/trip                          |
+
+
