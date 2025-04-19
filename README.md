@@ -58,11 +58,11 @@ Due to the large data size, it wasn't possible to work with the data using excel
 
 ### :bar_chart: Analyze:
 
-• Currently we can see that 41% are by casuals and 59% of trips are made by members, lets work on improving this percentage!
+• Currently we can see that 41% of trips are by casuals and 59%  are made by members, lets work on improving this percentage!
 
  ![image](https://github.com/user-attachments/assets/77820b50-5b2c-4b28-8f03-4ca670a46248)
 
- • Over the course of a full year, it seems that the most busy time of the year is around summer time (July, August, September).
+ • Over the course of a full year, it seems that the most busy time of the year is around summer time (July, August, September), which makes sense as people would't likely ride a bike on a rainy weather.
 
  ![image](https://github.com/user-attachments/assets/a525deeb-9447-42cb-8087-77e236eca3ec)
 
@@ -98,7 +98,8 @@ Here is a link for An interactive report on [Power BI service](https://app.power
 1. In general, number of rides increase around summer time so this would be an optimal time to start advertising campaigns.
 2. On average the ride length of casual customers is longer than members, so maybe provide them with time/distance based subscribtions and/or offers.
 3. On a weekly basis, casual customers seems to increase in weekdends, so maybe having different types of subscriptions for example weekends only or any specific days chosen by the user would be engaging.
-4. Judging by the hourly trend, most rides happen mid day (around 5:00 PM), so maybe conducting a simple survey would help better understand how both type of customers use the service wether they use it as transport method for work, or just for amusment, which will help determine what is the best place for advertisments public transports, parks, etc...
+4. A large percentage of customers prefer docked Bikes, so maybe increase the number of docked bikes, and investigate if there is any problem with the other types of bikes.
+5. Judging by the hourly trend, most rides happen mid day (around 5:00 PM), so maybe conducting a simple survey would help better understand how both type of customers use the service wether they use it as transport method for work, or just for amusment, which will help determine what is the best place for advertisments public transports, parks, etc...
 
 
 
