@@ -23,7 +23,7 @@ Using googles data analytics process 5 phases we begin with:
 
 • Download the data sets from the [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) site. <br>
 • Organize data in a single directory. <br>
-• Explore the dataset to better understand what are our dimensions and measures. <br>
+• Explore the dataset to better understand what are our dimensions and measures: <br>
 
 |  **Variable**       |  **Description**                                        |
 |------------------   | --------------------------------------------------------|
@@ -40,5 +40,32 @@ Using googles data analytics process 5 phases we begin with:
 | end_lat             | Latitude of ending station                              |
 | end_lng             | Longitude of ending station                             |                            
 | member_casual       | Type of customer per ride/trip                          |
+
+
+### :arrows_counterclockwise: Process:
+
+Due to the large data size, it wasn't possible to work with the data using excel without processing each file one at a time, so it was much better to Use **Python PANDAS** and jupyter notebooks to perform all the required data cleaning:
+
+1.	Combine each month of data.
+2.	Converting some data types to optimize memory usage.
+3.	Exploring if there are aby duplicate or null ride_id.
+4.	Separating geo data and ride time data into 2 different tables.
+5.	Calculating ride_length, correct negative ride lengths.
+6.	Categorize ride length times.
+7.	Adding necessary Date/time columns for time series analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
