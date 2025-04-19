@@ -4,6 +4,22 @@
 
 ## :page_facing_up: Task Summary
 
-   A bike sharing company, The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. 
-Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders.
-Although the pricing flexibility helps Cyclistic attract more customers.
+   Cyclistic, a bike sharing company, The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. 
+Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers.
+
+Design marketing strategies aimed at converting casual riders into annual members.
+
+## :clipboard: Approach
+
+Using googles data analytics process 5 phases we begin with:
+
+### :interrobang: Ask:
+
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+### :inbox_tray: Prepare:
+
+• Download the data sets from the https://divvy-tripdata.s3.amazonaws.com/index.html site.
+• 
