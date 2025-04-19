@@ -53,9 +53,10 @@ Due to the large data size, it wasn't possible to work with the data using excel
 5.	Calculating ride_length, correct negative ride lengths.
 6.	Categorize ride length times.
 7.	Adding necessary Date/time columns for time series analysis.
+8.	Importing the data to Power BI and applying some slight changes with power query to begin the analysis phase.
 
 
-### :pushpin: Analyze:
+### :bar_chart: Analyze:
 
 • Currently we can see that 41% are by casuals and 59% of trips are made by members, lets work on improving this percentage!
 
@@ -86,6 +87,18 @@ Due to the large data size, it wasn't possible to work with the data using excel
 ![image](https://github.com/user-attachments/assets/546af050-b976-4a3c-ba0a-ab02f1d5dc40)
 
 
+### :loudspeaker: Share:
+
+Here is a link for An interactive report on [Power BI service](https://app.powerbi.com/view?r=eyJrIjoiNjUxNjNmZDYtOTRhNi00ZDJhLWEzMzEtMWY0YmZjNzJhODIyIiwidCI6IjU5ZDRjODc4LTE4NTEtNDFkNC05ZmVmLTY5MzE2ODYyMjI5OCJ9)
+
+![Screenshot 2025-04-19 215807](https://github.com/user-attachments/assets/efb6f451-ffe6-4dbf-8f1d-4c59c682a071)
+
+### :pencil: Act(Take Actions):
+
+1. In general, number of rides increase around summer time so this would be an optimal time to start advertising campaigns.
+2. On average the ride length of casual customers is longer than members, so maybe provide them with time/distance based subscribtions and/or offers.
+3. On a weekly basis, casual customers seems to increase in weekdends, so maybe having different types of subscriptions for example weekends only or any specific days chosen by the user would be engaging.
+4. Judging by the hourly trend, most rides happen mid day (around 5:00 PM), so maybe conducting a simple survey would help better understand how both type of customers use the service wether they use it as transport method for work, or just for amusment, which will help determine what is the best place for advertisments public transports, parks, etc...
 
 
 
